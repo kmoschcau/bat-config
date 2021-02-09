@@ -1,5 +1,5 @@
 # Set the theme for syntax highlighting.
---theme OneHalfLight
+--theme Material
 
 # Configure which elements to display in addition to the file contents.
 --style changes,rule,numbers,snip
