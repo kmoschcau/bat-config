@@ -13,6 +13,8 @@
           <string>#616161</string>
           <key>background</key>
           <string>#fafafa</string>
+          <key>lineHighlight</key>
+          <string>#ffeb3b</string>
           <key>gutter</key>
           <string>#bdbdbd</string>
           <key>gutterForeground</key>
